@@ -1,4 +1,4 @@
-My Movies App Readme..
+My Movies App Readme....
 
 MyMoviesApp is a clean and scalable Android application built using Kotlin and the MVVM (Model–View–ViewModel) architecture. The app consumes data from the TMDB (The Movie Database) API and demonstrates modern Android development practices such as separation of concerns, lifecycle-aware components, and asynchronous network handling.
 
